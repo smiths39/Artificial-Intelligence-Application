@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+
+	<body>
+		<br>
+		<h2> HanoiTower Description </h2>
+		<p> The tower of Hanoi is a puzzle invented by E. Lucas in 1883. </p>
+		
+		<p> The World provides 3 pegs (left, middle and right) and 5 disks.<br>
+		Disks are arranged from largest on the bottoms to smallest on top. </p>
+		
+		The game begins in the following format:
+		<ul>
+			<li> Peg A - 1,2,3,4,5 (were number respresents ring number/size) </li>
+			<li> Peg B - empty </li>
+			<li> Peg C - empty </li>
+		</ul>
+		
+		<h2> Objective of Game </h2>
+			<p> The towers of Hanoi puzzle asks for the minimum number of moves required to move the stack from one rod to another. </p>
+		
+		<h2> Rules </h2>
+		<ol>
+			<li> Moves are allowed only if they place smaller disks on top of larger disks.</li>
+			<li> You are allowed a maximum of 50 moves. </li>
+			<li> An invalid move will still count towards the overall score. </li>
+		</ol>
+		
+		<h2> Actions </h2>
+	
+		<p> Action = int supplied in relation to following actions (0-5):
+			<ul>
+				<li> TAKE_LEFT_MOVE_MIDDLE </li>
+				<li> TAKE_MIDDLE_MOVE_LEFT </li>
+				<li> TAKE_RIGHT_MOVE_LEFT </li>
+				<li> TAKE_LEFT_MOVE_RIGHT </li>
+				<li> TAKE_MIDDLE_MOVE_RIGHT </li>
+				<li> TAKE_RIGHT_MOVE_MIDDLE </li>
+			</ul>
+		</p>
+		
+		<h2> States </h2>
+		
+		<p>	State = "s1,s2,s3" where each represents a the element on a stack where:
+		<ul>	
+			<li> s1 = left stack. </li>
+			<li> s2 = middle stack. </li>
+			<li> s3 = right stack. </li>
+		</ul>
+		
+		<h2> Score </h2>
+		Score = "s1,s2,s3" where:
+		
+		<ul>
+			<li> s1 = moves taken to complete puzzle. </li>
+			<li> s2 = maximum amount of moves allowed. </li>
+			<li> s3 = overall which is determined by (s2 - s1). </li>
+		</ul>
+	</body>
+<html>

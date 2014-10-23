@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ToolkitSOML>
+    <RunData step="1">
+        <Action>3</Action>
+        <State>2345,empty,1</State>
+        <Score>49</Score>
+    </RunData>
+    <RunData step="2">
+        <Action>0</Action>
+        <State>345,2,1</State>
+        <Score>48</Score>
+    </RunData>
+    <RunData step="3">
+        <Action>5</Action>
+        <State>345,12,empty</State>
+        <Score>47</Score>
+    </RunData>
+    <RunData step="4">
+        <Action>3</Action>
+        <State>45,12,3</State>
+        <Score>46</Score>
+    </RunData>
+    <RunData step="5">
+        <Action>1</Action>
+        <State>145,2,3</State>
+        <Score>45</Score>
+    </RunData>
+    <RunData step="6">
+        <Action>4</Action>
+        <State>145,empty,23</State>
+        <Score>44</Score>
+    </RunData>
+    <RunData step="7">
+        <Action>3</Action>
+        <State>45,empty,123</State>
+        <Score>43</Score>
+    </RunData>
+    <RunData step="8">
+        <Action>0</Action>
+        <State>5,4,123</State>
+        <Score>42</Score>
+    </RunData>
+    <RunData step="9">
+        <Action>5</Action>
+        <State>5,14,23</State>
+        <Score>41</Score>
+    </RunData>
+    <RunData step="10">
+        <Action>2</Action>
+        <State>25,14,3</State>
+        <Score>40</Score>
+    </RunData>
+    <RunData step="11">
+        <Action>1</Action>
+        <State>125,4,3</State>
+        <Score>39</Score>
+    </RunData>
+    <RunData step="12">
+        <Action>5</Action>
+        <State>125,34,empty</State>
+        <Score>38</Score>
+    </RunData>
+    <RunData step="13">
+        <Action>3</Action>
+        <State>25,34,1</State>
+        <Score>37</Score>
+    </RunData>
+    <RunData step="14">
+        <Action>0</Action>
+        <State>5,234,1</State>
+        <Score>36</Score>
+    </RunData>
+    <RunData step="15">
+        <Action>5</Action>
+        <State>5,1234,empty</State>
+        <Score>35</Score>
+    </RunData>
+    <RunData step="16">
+        <Action>3</Action>
+        <State>empty,1234,5</State>
+        <Score>34</Score>
+    </RunData>
+    <RunData step="17">
+        <Action>1</Action>
+        <State>1,234,5</State>
+        <Score>33</Score>
+    </RunData>
+    <RunData step="18">
+        <Action>4</Action>
+        <State>1,34,25</State>
+        <Score>32</Score>
+    </RunData>
+    <RunData step="19">
+        <Action>3</Action>
+        <State>empty,34,125</State>
+        <Score>31</Score>
+    </RunData>
+    <RunData step="20">
+        <Action>1</Action>
+        <State>3,4,125</State>
+        <Score>30</Score>
+    </RunData>
+    <RunData step="21">
+        <Action>5</Action>
+        <State>3,14,25</State>
+        <Score>29</Score>
+    </RunData>
+    <RunData step="22">
+        <Action>2</Action>
+        <State>23,14,5</State>
+        <Score>28</Score>
+    </RunData>
+    <RunData step="23">
+        <Action>1</Action>
+        <State>123,4,5</State>
+        <Score>27</Score>
+    </RunData>
+    <RunData step="24">
+        <Action>4</Action>
+        <State>123,empty,45</State>
+        <Score>26</Score>
+    </RunData>
+    <RunData step="25">
+        <Action>3</Action>
+        <State>23,empty,145</State>
+        <Score>25</Score>
+    </RunData>
+    <RunData step="26">
+        <Action>0</Action>
+        <State>3,2,145</State>
+        <Score>24</Score>
+    </RunData>
+    <RunData step="27">
+        <Action>5</Action>
+        <State>3,12,45</State>
+        <Score>23</Score>
+    </RunData>
+    <RunData step="28">
+        <Action>3</Action>
+        <State>empty,12,345</State>
+        <Score>22</Score>
+    </RunData>
+    <RunData step="29">
+        <Action>1</Action>
+        <State>1,2,345</State>
+        <Score>21</Score>
+    </RunData>
+    <RunData step="30">
+        <Action>4</Action>
+        <State>1,empty,2345</State>
+        <Score>20</Score>
+    </RunData>
+    <RunData step="31">
+        <Action>3</Action>
+        <State>empty,empty,12345</State>
+        <Score>19</Score>
+    </RunData>
+</ToolkitSOML>
